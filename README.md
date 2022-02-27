@@ -1,1 +1,1 @@
-# Hotel-Booking-System is developed with MERN stack.
+# Developed with MERN stack.
